@@ -33,17 +33,17 @@ Merhaba! Ben [Adınız], [Uzmanlıklarınız] konusunda deneyime sahip tutkulu b
 ### [Proje 1: Proje Adı](https://github.com/kullanıcıadın/proje1)
 Projenin Tanımı 1. Temel özellikleri, kullanılan teknolojileri ve dikkate değer başarıları vurgulayın.
 
-![Proje 1 Resmi](https://via.placeholder.com/800x400.png?text=Projec+1+Görüntüsü)
+![Proje 1 Resmi](https://via.placeholder.com/800x400.png?text=Proje+1+Görüntüsü)
 
 ### [Proje 2: Proje Adı](https://github.com/kullanıcıadın/proje2)
 Projenin Tanımı 2. Temel özellikleri, kullanılan teknolojileri ve dikkate değer başarıları vurgulayın.
 
-![Proje 2 Resmi](https://via.placeholder.com/800x400.png?text=Projec+2+Görüntüsü)
+![Proje 2 Resmi](https://via.placeholder.com/800x400.png?text=Proje+2+Görüntüsü)
 
 ### [Proje 3: Proje Adı](https://github.com/kullanıcıadın/proje3)
 Projenin Tanımı 3. Temel özellikleri, kullanılan teknolojileri ve dikkate değer başarıları vurgulayın.
 
-![Proje 3 Resmi](https://via.placeholder.com/800x400.png?text=Projec+3+Görüntüsü)
+![Proje 3 Resmi](https://via.placeholder.com/800x400.png?text=Proje+3+Görüntüsü)
 
 ## 📊 İstatistiklerim
 
@@ -67,4 +67,4 @@ Bu proje MIT Lisansı kapsamında lisanslanmıştır; ayrıntılar için [LİSAN
 
 ---
 
-Portfolyomu ziyaret ettiğiniz için teşekkürler! Projelerimi incelemekten ve işbirliği yapmak isterseniz [iletişim](https://discord.gg/users/1198654893758623755)e geçmekten çekinmeyin.
+Portfolyomu ziyaret ettiğiniz için teşekkürler! Projelerimi incelemekten ve işbirliği yapmak isterseniz [iletişim](https://discord.gg/users/1198654893758623755)'e geçmekten çekinmeyin.

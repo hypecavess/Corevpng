@@ -67,4 +67,4 @@ Bu proje MIT Lisansı kapsamında lisanslanmıştır; ayrıntılar için [LİSAN
 
 ---
 
-Portfolyomu ziyaret ettiğiniz için teşekkürler! Projelerimi incelemekten ve işbirliği yapmak isterseniz [iletişim](https://discord.gg/users/1198654893758623755)'e geçmekten çekinmeyin.
+Portfolyomu ziyaret ettiğiniz için teşekkürler! Projelerimi incelemekten ve işbirliği yapmak isterseniz [iletişim](mailto:coresyt08@gmail.com)'e geçmekten çekinmeyin.

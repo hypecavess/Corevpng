@@ -57,7 +57,7 @@ Projenin Tanımı 3. Temel özellikleri, kullanılan teknolojileri ve dikkate de
 
 ## 📫 Bana Ulaşın
 
-- [![Discord](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.discord.com/)
+- [![Discord](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=discord&logoColor=white)](https://www.discord.com/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
 - [![İnstagram](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://www.instagram.com)
 

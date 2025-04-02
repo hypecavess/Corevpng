@@ -4,6 +4,6 @@
   <samp>
     Hi there, I'm HypeCaves <br>
     I am an Full-Stack FrontEnd Developer <br>
-    <br><img src="https://count.getloli.com/get/@:hypecavess?theme=gelbooru-h">
+    <br><img src="https://count.getloli.com/get/@:hypecavess?theme=booru-helltaker">
   </samp>
 </p>
